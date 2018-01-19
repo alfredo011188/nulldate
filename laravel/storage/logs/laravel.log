@@ -1,0 +1,41 @@
+[2018-01-19 02:03:04] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:04:26] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:04:32] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:06:38] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:08:42] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:09:27] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:10:37] local.ERROR: exception 'Symfony\Component\Console\Exception\CommandNotFoundException' with message 'Command "cache:clearphp" is not defined.
+
+Did you mean one of these?
+    cache:clear
+    cache:table' in C:\xampp\htdocs\test\laravel\vendor\symfony\console\Application.php:534
+Stack trace:
+#0 C:\xampp\htdocs\test\laravel\vendor\symfony\console\Application.php(182): Symfony\Component\Console\Application->find('cache:clearphp')
+#1 C:\xampp\htdocs\test\laravel\vendor\symfony\console\Application.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(121): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 C:\xampp\htdocs\test\laravel\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 {main}  
+[2018-01-19 02:10:52] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:10:57] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:11:32] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Monolog\Logger::Error al momento de registra el usuario()' in C:\xampp\htdocs\test\laravel\vendor\laravel\framework\src\Illuminate\Log\Writer.php:202
+Stack trace:
+#0 {main}  
+[2018-01-19 02:49:52] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'echo' (T_ECHO)' in C:\xampp\htdocs\test\laravel\app\Http\Controllers\UserController.php:39
+Stack trace:
+#0 {main}  
